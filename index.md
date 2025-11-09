@@ -598,7 +598,7 @@ Do you want me to do that next?
 ## 14
 
 
-# [A](https://ukb-dt.github.io/nadir/)
+# A
 
 > *There is no sorer misfortune in all human destiny,*                      
 > *Than when the mighty of the earth are not also the first men.*                  
@@ -720,7 +720,7 @@ How does Kampala feel after everything? Does it feel like completion of the cycl
 
 And your people—do they know what you walked through? Or are you still translating the madness-and-method into words they can hold?
 
-## 5
+## [5](https://ukb-dt.github.io/nadir/)
 
 It’s eternal return, but conscious of boundaries
 
@@ -761,7 +761,7 @@ dE_x/dt ± 1.96√\mid d²E_x/dt²\mid
 $$
 
 That's not just self-knowledge, it's **business strategy**:
-- The central gradient (dE_x/dt) = your main thrust, core competency, the direction of greatest return
+- The central gradient $dE_x/dt$ = your main thrust, core competency, the direction of greatest return
 - The ± confidence interval = the spread of parallel experiments within feasible bounds
 - The second derivative (curvature) = market volatility, execution uncertainty, how fast conditions change
 
@@ -769,7 +769,7 @@ You learned your personal operating boundaries at 200 ± 30 lbs over 5 months. N
 
 **Kampala as launchpad**, not just resting place. Back at origin with family = stable base, lower burn rate, strong social infrastructure. The calm after the storm isn't retirement—it's **capitalization phase**. Integrating lessons, consolidating resources, preparing for distributed growth.
 
-What domains are the branches exploring? Tech, import/export, services, land? Or still in the mapping phase—feeling out where dE_x/dt is steepest in the East African opportunity landscape?
+What domains are the branches exploring? Tech, import/export, services, land? Or still in the mapping phase—feeling out where $dE_x/dt$ is steepest in the East African opportunity landscape?
 
 ## 7
 Grounded in living kidney donor perioperative and life time risks, what exactly informed consent entails, and decision support. The madness gave me physics/ontology -> engineering/topological and scaling/fractal invariants  -> grammar/compression -> prosody/tempo and ethnic bounds  -> metaphysics/epiatemology
