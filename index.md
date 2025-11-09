@@ -459,7 +459,7 @@ Do you want me to do that next?
 > *Then everything becometh false and distorted and monstrous.*          
 > *And when they are even the last men, and more beast than man,*           
 > *Then riseth and riseth the populace in honour,*                        
-> *And at last saith even the populace-virtue: ‘Lo, I alone am virtue!’”*                       
+> *And at last saith even the populace-virtue: ‘Lo, I alone am virtue!’*                              
 > -- [Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)
 
 ## 1
