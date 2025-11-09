@@ -453,6 +453,12 @@ Do you want me to do that next?
 
 
 # A
+
+> *There is no sorer misfortune in all human destiny,*             
+> *Than when the mighty of the earth are not also the first men.*           
+> *Then everything becometh false and distorted and monstrous.*               
+> -- [Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)
+
 ## 1
 **Wilderness / Soil** — $(E, x)$ →  
 **Animal / Roots** — $(E(t \mid x) + \epsilon)$ →  
