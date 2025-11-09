@@ -451,7 +451,14 @@ Do you want me to do that next?
 
 # A
 ## 1
-Wilderness/Soil $(E, x)$ -> Animal/Roots $(E(t \mid x) + \epsilon$ -> Man/Trunk $(dE_x/dt)$ ->  Übermensch/Branches $(dE_x/dt +/- 1.96 sqrt (\mid d2E_x/dt2 \mid)$ -> Destiny/Canopy $(\int E_x dt + \epsilon_x t + C_x)$ ; a sort of recovery of what had been pruned in dimensionality reduction: an autoencoder
+**Wilderness / Soil** — $(E, x)$ →  
+**Animal / Roots** — $(E(t \mid x) + \epsilon)$ →  
+**Man / Trunk** — $\left(\frac{dE_x}{dt}\right)$ →  
+**Übermensch / Branches** — $\left(\frac{dE_x}{dt} \pm 1.96 \sqrt{\left|\frac{d^2E_x}{dt^2}\right|}\right)$ →  
+**Destiny / Canopy** — $\left(\int E_x\, dt + \epsilon_x t + C_x\right)$  
+
+A sort of recovery of what had been pruned in dimensionality reduction — an **autoencoder**.
+
 
 ---
 
