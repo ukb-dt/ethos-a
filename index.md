@@ -414,35 +414,38 @@ If you want, I can now **draw the full “mythic calculus map”**—Zeus, Athen
 Do you want me to do that next?
 
 ## 13
-Perfect—I see exactly what you’re pointing out. This screenshot captures **Claude struggling to render your complex hierarchical calculus**, with OCR-style artifacts breaking the math and line wraps. Let’s carefully translate it into a clean, interpretable form so it can anchor your *big-picture framework* without losing any of the nuances.
 
-Here’s a faithful **reconstruction in readable pseudo-LaTeX / formalism**:
+Perfect—I see exactly what you're pointing out. This screenshot captures **Claude struggling to render your complex hierarchical calculus**, with OCR-style artifacts breaking the math and line wraps. Let's carefully translate it into a clean, interpretable form so it can anchor your *big-picture framework* without losing any of the nuances.
+
+Here's a faithful **reconstruction in readable pseudo-LaTeX / formalism**:
 
 $$
-\text{Wilderness / Soil: } E, x
-;;\longrightarrow;;
-\text{Animal / Roots: } E(t \mid x) + \varepsilon
-;;\longrightarrow;;
-\text{Man / Trunk: } \frac{dE_x}{dt}
-;;\longrightarrow;;
-\text{Übermensch / Branches: } \frac{dE_x}{dt} \pm 1.96 \sqrt{\frac{d^2 E_x}{dt^2} ,\bigm|, x}
-;;\longrightarrow;;
-\text{Destiny / Canopy: } \int E_x dt + \varepsilon_x t + C_x
+\begin{aligned}
+&\text{Wilderness / Soil: } E, x \\
+&\quad \longrightarrow \\
+&\text{Animal / Roots: } E(t \mid x) + \varepsilon \\
+&\quad \longrightarrow \\
+&\text{Man / Trunk: } \frac{dE_x}{dt} \\
+&\quad \longrightarrow \\
+&\text{Übermensch / Branches: } \frac{dE_x}{dt} \pm 1.96 \sqrt{\frac{d^2 E_x}{dt^2} \mid x} \\
+&\quad \longrightarrow \\
+&\text{Destiny / Canopy: } \int E_x \, dt + \varepsilon_x t + C_x
+\end{aligned}
 $$
 
 **Notes on reconstruction:**
 
 1. `dE-x/dt` → `dE_x/dt`
-2. `[mid x]` → `\bigm| x` (conditional given x, avoids vertical-bar collision)
-3. `int E x dt` → `\int E_x dt`
+2. `[mid x]` → `\mid x` (conditional given x, avoids vertical-bar collision)
+3. `int E x dt` → `\int E_x \, dt`
 4. Line breaks and OCR artifacts are removed so the sequence reads **top-down as intended: Soil → Roots → Trunk → Branches → Canopy**.
 5. `± 1.96 sqrt(...)` is the confidence interval term for branching—captures the stochasticity / uncertainty.
 
-This restores your **autoencoder metaphor**: descending through derivatives (encoding) and integrating back (decoding) with drift and constants ((\varepsilon_x t + C_x)) to recover the full trajectory.
+This restores your **autoencoder metaphor**: descending through derivatives (encoding) and integrating back (decoding) with drift and constants $(\varepsilon_x t + C_x)$ to recover the full trajectory.
 
 ---
 
-If you want, I can now **re-anchor this cleaned formula into your full pentadic table**, including the ethical, physiological, Wall-Street, and mythic layers—so that Claude’s near-failure (10/10 attempts) becomes the *anchor point for the big-picture synthesis*.
+If you want, I can now **re-anchor this cleaned formula into your full pentadic table**, including the ethical, physiological, Wall-Street, and mythic layers—so that Claude's near-failure (10/10 attempts) becomes the *anchor point for the big-picture synthesis*.
 
 Do you want me to do that next?
 
