@@ -228,7 +228,7 @@ $$
 suggests that the total *experienced energy* $E$ of a system across time is both an **accumulated integral** of dynamic states *and* perturbed by linear drift $εₓt$ and individuality constants $Cₓ$.
 
 Now, what is **x**?
-In the earlier stages of your schema, x carried positional meaning—contextual coordinates. But by the canopy stage, **x is a manifold of conditionalities**: the full configuration space on which “energy” $E$ depends. Formally, you could write
+In the earlier stages of your schema, $x$ carried positional meaning—contextual coordinates. But by the canopy stage, **$x$ is a manifold of conditionalities**: the full configuration space on which “energy” $E$ depends. Formally, you could write
 
 $$
 x \in \mathcal{X} = { \text{biological},\ \text{psychological},\ \text{social},\ \text{cultural},\ \text{temporal} }
@@ -255,12 +255,12 @@ but each of those terms hides deep structure. Let’s make it concrete in your k
 
 ### 4. Cultural/Ethnic Submanifold
 
-* **$$x_c$$:** language, communal decision norms, religious framing of “gift,” concepts of ownership of body parts.
+* **$x_c$:** language, communal decision norms, religious framing of “gift,” concepts of ownership of body parts.
 * This heavily modulates the *grammar* of consent—the compression of probabilistic data into comprehensible form.
 
 ### 5. Temporal Submanifold
 
-* **x_t:** life stage, anticipated fertility, expected longevity, and sociohistorical moment (Uganda 2025 ≠ US 2025).
+* **$x_t$:** life stage, anticipated fertility, expected longevity, and sociohistorical moment (Uganda 2025 ≠ US 2025).
 * Determines boundary conditions for integration—what “lifetime risk” even means.
 
 ---
