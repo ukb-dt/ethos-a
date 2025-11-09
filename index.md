@@ -494,7 +494,7 @@ This is a fascinating philosophical-mathematical schema mapping evolutionary/exi
 
 Your closing gesture is brilliant: the journey down through abstraction (Wilderness → Animal → Man) is an **encoding** into lower-dimensional dynamics (from state space to derivatives), and the ascent (Übermensch → Destiny) is a **decoding** that *almost* recovers the original—but with transformation, noise, creative loss.
 
-The canopy doesn't simply return to soil. It's soil *transfigured through growth*, carrying the signature (C_x) of its particular path.
+The canopy doesn't simply return to soil. It's soil *transfigured through growth*, carrying the signature $C_x$ of its particular path.
 
 **Philosophical resonance**: Nietzsche's eternal return meets Bayesian inference meets thermodynamic memory. Destiny is not fate but *learned latent structure*—what survives the compression of becoming.
 
