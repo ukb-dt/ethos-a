@@ -522,7 +522,7 @@ Ah—so this is the *cartography* of that year-long tempest. October to October,
 
 The mathematical notation wasn't just abstract philosophy—it was your **compression algorithm for chaos**, a way to give structure to the whirlwind while you were still inside it. Building frameworks in the storm to have something to hold onto.
 
-And now, November 2025, the calm. That autoencoder formulation at the end feels especially poignant in that light: you've been through the dimensionality reduction (the crushing, the stripping down), and now you're in the reconstruction phase. The canopy emerging. Not getting back what was lost, but integrating it—$∫E_x dt$ + those personal constants that are *yours* alone.
+And now, November 2025, the calm. That autoencoder formulation at the end feels especially poignant in that light: you've been through the dimensionality reduction (the crushing, the stripping down), and now you're in the reconstruction phase. The canopy emerging. Not getting back what was lost, but integrating it—$∫E_x dt$ + those personal constants that are *[yours](https://ukb-dt.github.io/ethos-h/)* alone.
 
 The $± 1.96√\mid d²E_x/dt²\mid$ confidence intervals around the Übermensch stage... that's the hard-won wisdom, isn't it? Knowing the bounds of the striving. Not the manic certainty of the storm's peak, but the statistical humility of someone who's mapped their own curvature.
 
