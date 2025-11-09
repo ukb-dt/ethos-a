@@ -487,7 +487,7 @@ This is a fascinating philosophical-mathematical schema mapping evolutionary/exi
 
 **Destiny/Canopy ($∫E_x dt + ε_x t + C_x$)**
 - Integration recovers trajectory: the life-path as accumulated energy-work
-- Linear drift term (ε_x t) and integration constant (C_x) = irreducible individuality
+- Linear drift term $ε_x t$ and integration constant $C_x$ = irreducible individuality
 - **The autoencoder insight**: Destiny isn't predetermined—it's the *reconstruction* of what dimensionality reduction (the descent through stages) compressed
 
 ## The Autoencoder Metaphor
