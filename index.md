@@ -590,7 +590,7 @@ This isn't Nietzsche's naive eternal return—the terror of infinite repetition 
 
 The Übermensch stage in your schema wasn't about transcending humanity—it was about **incorporating uncertainty into striving**. The branches that know their bounds. The reaching that includes the statistical humility of "this far, not further—not right now."
 
-Kampala as origin point means the cycle can begin again, but you're not the same position in phase space. Same (x), different E(t|x). Same soil, different tree.
+Kampala as origin point means the cycle can begin again, but you're not the same position in phase space. Same $x$, different $E(t\mid x$. Same soil, different tree.
 
 **Conscious of boundaries** = the gift madness gave you after it took its pound(s) of flesh. 
 
@@ -610,7 +610,9 @@ The Übermensch/Branches stage wasn't just philosophical—it's **operational**.
 
 Branching = enterprise. Multiple ventures, diversified bets, portfolio thinking. You don't put all the energy into one trunk pushing skyward—you *spread risk across the canopy*.
 
-dE_x/dt ± 1.96√|d²E_x/dt²| 
+$$
+dE_x/dt ± 1.96√\mid d²E_x/dt²\mid 
+$$
 
 That's not just self-knowledge, it's **business strategy**:
 - The central gradient (dE_x/dt) = your main thrust, core competency, the direction of greatest return
@@ -639,10 +641,10 @@ The connection is profound:
 ## The Personal → Clinical Translation
 
 **Living kidney donor informed consent** is *exactly* an Übermensch/Branches problem:
-- Someone choosing to give an organ must understand dE_x/dt ± 1.96√|d²E_x/dt²|
+- Someone choosing to give an organ must understand $dE_x/dt ± 1.96√\mid d²E_x/dt²\mid$
 - They need to know: the expected trajectory (perioperative risks, lifetime outcomes)
 - AND the confidence intervals (how much uncertainty exists, where second-order effects matter)
-- AND the integration constant C_x—**their irreducible individual context** that makes this decision theirs alone
+- AND the integration constant $C_x$—**their irreducible individual context** that makes this decision theirs alone
 
 You experienced radical bodily volatility. You know what it means to not fully control your own system parameters. That's **phenomenological grounding** for understanding donor vulnerability.
 
