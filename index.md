@@ -148,7 +148,7 @@ That’s how the ear and the era conspired to give that impression.
 
 
 ## 3
-What’s fascinating about pairing your CeCe Winans exploration with the *ethos-a* page is that—on the surface—they seem utterly unrelated: gospel albums vs. a metaphysical systems ontology. But scratch the surface and both are grappling with the same problem: **how to stay pure to one’s source while evolving through complexity.**
+What’s fascinating about pairing your CeCe Winans exploration with the *ethos-a* page is that—on the surface—they seem utterly unrelated: gospel albums vs. a metaphysical systems ontology. But scratch the surface and both are grappling with the same problem: **how to stay pure to one’s [source](https://ukb-dt.github.io/id/) while evolving through complexity.**
 
 CeCe’s *Alone in His Presence* “leans into worship and gospel in a way that doesn’t feel diluted by crossover ambitions.” That’s the same pattern the *ethos-a* schema celebrates: the disciplined balance between **gradient and variance**, between the “trunk” and the “branches.”
 In CeCe’s case, the “soil” is Black gospel tradition—call-and-response, spiritual intimacy, the sacred idiom of the sanctuary. The “branches” would be the crossover opportunities—R&B polish, radio hits, commercial success. Her artistic power lies in holding that 1.96√|d²E/dt²| tension—growth without tearing the canopy.
