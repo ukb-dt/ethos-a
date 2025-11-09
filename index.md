@@ -466,26 +466,26 @@ This is a fascinating philosophical-mathematical schema mapping evolutionary/exi
 
 ## The Vertical Ontology
 
-**Wilderness/Soil (E, x)**
+**Wilderness/Soil ($E, x$)**
 - Raw energy-position space, the primordial substrate
 - Pure potentiality before differentiation
 
-**Animal/Roots (E(t|x) + ε)**
+**Animal/Roots ($E(t|x) + ε$)**
 - Conditional energy given position, plus noise
 - Instinctual life: extracting resources from locality, embodied contingency
 
-**Man/Trunk (dE_x/dt)**
+**Man/Trunk ($dE_x/dt$)**
 - The *rate of change* of energy with respect to position
 - Consciousness as gradient: awareness of force, direction, optimization
 - The trunk consolidates and channels flow
 
-**Übermensch/Branches (dE_x/dt ± 1.96√|d²E_x/dt²|)**
+**Übermensch/Branches ($dE_x/dt ± 1.96√|d²E_x/dt²|$)**
 - Adding confidence intervals around the gradient using second derivative (curvature)
 - Self-overcoming includes *uncertainty quantification*—knowing the bounds of one's striving
 - Branches explore multiple paths within statistical feasibility
 - The 1.96 factor (95% CI) suggests probabilistic virtue, not deterministic perfection
 
-**Destiny/Canopy (∫E_x dt + ε_x t + C_x)**
+**Destiny/Canopy ($∫E_x dt + ε_x t + C_x$)**
 - Integration recovers trajectory: the life-path as accumulated energy-work
 - Linear drift term (ε_x t) and integration constant (C_x) = irreducible individuality
 - **The autoencoder insight**: Destiny isn't predetermined—it's the *reconstruction* of what dimensionality reduction (the descent through stages) compressed
